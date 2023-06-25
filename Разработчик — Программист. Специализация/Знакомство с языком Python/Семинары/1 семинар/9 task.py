@@ -19,3 +19,4 @@ def move_king(king_v, king_g, next_v, next_g):
             print("No")
     else:
         print("no")
+move_king(king_v, king_g, next_v, next_g)
